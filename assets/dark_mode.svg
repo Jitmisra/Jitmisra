@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="553" viewBox="0 0 864 553" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+<defs><linearGradient id="pgd" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#2FBF71"/><stop offset="1" stop-color="#5ad3e0"/></linearGradient></defs>
+<rect x="1" y="1" width="862" height="551" rx="14" fill="none" stroke="#30363d" stroke-width="1.4"/>
+<circle cx="24" cy="22.0" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="22.0" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="22.0" r="6" fill="#27c93f"/>
+<line x1="1" y1="41" x2="863" y2="41" stroke="#30363d" stroke-width="1.2"/>
+<text x="432.0" y="25.0" fill="#8b949e" font-size="13" text-anchor="middle">agnik@jitmisra — neofetch</text>
+<text xml:space="preserve" x="32" y="75.0" font-size="13" fill="url(#pgd)">                                                          </text>
+<text xml:space="preserve" x="32" y="90.2" font-size="13" fill="url(#pgd)">                        ++==-=                            </text>
+<text xml:space="preserve" x="32" y="105.4" font-size="13" fill="url(#pgd)">                 :::-==++*******+=                        </text>
+<text xml:space="preserve" x="32" y="120.6" font-size="13" fill="url(#pgd)">                ---=++**###*+****++*+=-                   </text>
+<text xml:space="preserve" x="32" y="135.8" font-size="13" fill="url(#pgd)">               +===***#%####**##**##*****==               </text>
+<text xml:space="preserve" x="32" y="151.0" font-size="13" fill="url(#pgd)">             =+++**###%%%##%#%%%%##%%%%%%%#               </text>
+<text xml:space="preserve" x="32" y="166.2" font-size="13" fill="url(#pgd)">             ****#%%##@@@%@@@#%%@@@@@@%%@@#=              </text>
+<text xml:space="preserve" x="32" y="181.4" font-size="13" fill="url(#pgd)">             +*%@@@%%@@@@@@@@@@@@@@@@@%@@@#+=             </text>
+<text xml:space="preserve" x="32" y="196.6" font-size="13" fill="url(#pgd)">             +*%@@@@@@@@%%###@@@@@@@@@@@@@%#*             </text>
+<text xml:space="preserve" x="32" y="211.8" font-size="13" fill="url(#pgd)">              *#%@@@@###**+--*%@@@@@@@@@@@@@              </text>
+<text xml:space="preserve" x="32" y="227.0" font-size="13" fill="url(#pgd)">              +*#@@@%*+*##**+**####%%%@@%@@@              </text>
+<text xml:space="preserve" x="32" y="242.2" font-size="13" fill="url(#pgd)">              **%%@@#===++=+-++===--=:#=:+@               </text>
+<text xml:space="preserve" x="32" y="257.4" font-size="13" fill="url(#pgd)">               =#**@=-:::-=-.:=---::::*=:-                </text>
+<text xml:space="preserve" x="32" y="272.6" font-size="13" fill="url(#pgd)">                ::-+-::::---::--:::..::::                 </text>
+<text xml:space="preserve" x="32" y="287.8" font-size="13" fill="url(#pgd)">                 --:-::::::--=-:::...-*+                  </text>
+<text xml:space="preserve" x="32" y="303.0" font-size="13" fill="url(#pgd)">                    +-:::---==---::::#@%                  </text>
+<text xml:space="preserve" x="32" y="318.2" font-size="13" fill="url(#pgd)">                      ::::-----:::::=                     </text>
+<text xml:space="preserve" x="32" y="333.4" font-size="13" fill="url(#pgd)">                      :-::::::::::-:=#                    </text>
+<text xml:space="preserve" x="32" y="348.6" font-size="13" fill="url(#pgd)">                      :-----------:=#@%*                  </text>
+<text xml:space="preserve" x="32" y="363.8" font-size="13" fill="url(#pgd)">                       :::-====-:-#@%%%%#*                </text>
+<text xml:space="preserve" x="32" y="379.0" font-size="13" fill="url(#pgd)">                      :-+::---::+@@%%%%%%%##*+            </text>
+<text xml:space="preserve" x="32" y="394.2" font-size="13" fill="url(#pgd)">                   ++=.-*-::. :#@%%%%%%%%%#####**+        </text>
+<text xml:space="preserve" x="32" y="409.4" font-size="13" fill="url(#pgd)">               ++*+++- :+-.. :#%%%%%%@%%%############+    </text>
+<text xml:space="preserve" x="32" y="424.6" font-size="13" fill="url(#pgd)">            +++*******-...  :*#####%@@%###############    </text>
+<text xml:space="preserve" x="32" y="439.8" font-size="13" fill="url(#pgd)">          *++**********  ...*%####@@%################%    </text>
+<text xml:space="preserve" x="32" y="455.0" font-size="13" fill="url(#pgd)">          **#*********+  ..+%####@@%##**#%#%%#########    </text>
+<text xml:space="preserve" x="32" y="470.2" font-size="13" fill="url(#pgd)">          **##*********.  =%####@%##***%@%%###########    </text>
+<text xml:space="preserve" x="32" y="485.4" font-size="13" fill="url(#pgd)">          ######*******: -####%@%##**#%@%#**##########    </text>
+<text xml:space="preserve" x="32" y="500.6" font-size="13" fill="url(#pgd)">           %#######****:.####%@%#***#%@@%%##***#######    </text>
+<text xml:space="preserve" x="32" y="515.8" font-size="13" fill="url(#pgd)">           %##%%%%%#**#=*%##%%##*+*#@@@%**##%%%%%#####    </text>
+<text xml:space="preserve" x="32" y="531.0" font-size="13" fill="url(#pgd)">               %#%%%***#%##%%##*+*%@@@@%           ##     </text>
+<text y="75.0" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#7ee88a" font-weight="700">agnik</tspan><tspan xml:space="preserve" x="522.8" fill="#8b949e">@</tspan><tspan xml:space="preserve" x="530.1" fill="#5ad3e0" font-weight="700">jitmisra</tspan></text>
+<text y="90.2" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#8b949e">Software Engineer · Open Source · Founder</tspan></text>
+<text y="105.4" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#3f4c57">  ────────────────────────────────────────</tspan></text>
+<text y="120.6" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  OS         </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">macOS · Linux · Android</tspan></text>
+<text y="135.8" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Uptime     </tspan><tspan xml:space="preserve" x="581.5" fill="#7ee88a">~2 yrs · zero-code → committer</tspan></text>
+<text y="151.0" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Host       </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">In.culcate · Co-Founder &amp; CTO</tspan></text>
+<text y="166.2" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Kernel     </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">B.Tech CSE-AI @ Newton School</tspan></text>
+<text y="181.4" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Shell      </tspan><tspan xml:space="preserve" x="581.5" fill="#7ee88a">/bin/open-source</tspan></text>
+<text y="211.8" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  OpenSrc    </tspan><tspan xml:space="preserve" x="581.5" fill="#7ee88a" font-weight="700">Apache Committer · 2× GSoC · LFX</tspan></text>
+<text y="227.0" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Lang.Code  </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">Python · TS · JS · Go · C++</tspan></text>
+<text y="242.2" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Lang.Web   </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">React · Next · Node · Flask</tspan></text>
+<text y="257.4" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Lang.Ops   </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">K8s · Docker · Helm · Kafka</tspan></text>
+<text y="272.6" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Lang.Real  </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">English · Hindi · Bengali</tspan></text>
+<text y="303.0" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Now        </tspan><tspan xml:space="preserve" x="581.5" fill="#ecc86e" font-weight="700">GSoC &#x27;26 @ OSIPI (ASL-MRI QC)</tspan></text>
+<text y="318.2" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Focus      </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">distributed systems · DevOps</tspan></text>
+<text y="348.6" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#ecc86e" font-weight="700">  Contact </tspan><tspan xml:space="preserve" x="559.5" fill="#3f4c57">───────────────────────────────</tspan></text>
+<text y="363.8" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Email      </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">agnikmisra@gmail.com</tspan></text>
+<text y="379.0" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  LinkedIn   </tspan><tspan xml:space="preserve" x="581.5" fill="#7ee88a" font-weight="700">in/agnikmisra · 6k+ followers</tspan></text>
+<text y="394.2" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  GitHub     </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">@Jitmisra</tspan></text>
+<text y="409.4" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Medium     </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">@Agnikmisra</tspan></text>
+<text y="439.8" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#ecc86e" font-weight="700">  Highlights </tspan><tspan xml:space="preserve" x="581.5" fill="#3f4c57">────────────────────────────</tspan></text>
+<text y="455.0" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Repos      </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">148 public · 35 followers</tspan></text>
+<text y="470.2" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Awards     </tspan><tspan xml:space="preserve" x="581.5" fill="#7ee88a" font-weight="700">2× GSoC · 5× Hackathon</tspan></text>
+<text y="485.4" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Press      </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">2× India Today · HPAIR &#x27;25</tspan></text>
+<text y="500.6" font-size="13"><tspan xml:space="preserve" x="486.0" fill="#5ad3e0" font-weight="700">  Talks      </tspan><tspan xml:space="preserve" x="581.5" fill="#c9d1d9">How to Crack GSoC (400+)</tspan></text>
+</svg>
