@@ -7,10 +7,6 @@
   </picture>
 </a>
 
-<br/><br/>
-
-**[LinkedIn](https://linkedin.com/in/agnikmisra)** &nbsp;·&nbsp; **[Email](mailto:agnikmisra@gmail.com)** &nbsp;·&nbsp; **[Medium](https://medium.com/@Agnikmisra)** &nbsp;·&nbsp; **[GitHub](https://github.com/Jitmisra)**
-
 </div>
 
 ---
